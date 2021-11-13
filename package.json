@@ -1,0 +1,23 @@
+{
+  "name": "my-proyecto-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alemelomeza/my-proyecto-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alemelomeza/my-proyecto-node/issues"
+  },
+  "homepage": "https://github.com/alemelomeza/my-proyecto-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
